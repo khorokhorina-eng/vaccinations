@@ -1,0 +1,154 @@
+{
+  "countries": {
+    "Россия": {
+      "name": "Россия",
+      "vaccinations": [
+        {
+          "name": "Гепатит B",
+          "description": "Первая вакцинация против вирусного гепатита B",
+          "recommendedAge": {
+            "fromAge": 0,
+            "toAge": 0
+          },
+          "isRequired": true
+        },
+        {
+          "name": "БЦЖ",
+          "description": "Вакцинация против туберкулеза",
+          "recommendedAge": {
+            "fromAge": 0,
+            "toAge": 0
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Гепатит B",
+          "description": "Вторая вакцинация против вирусного гепатита B",
+          "recommendedAge": {
+            "fromAge": 1,
+            "toAge": 1
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Пневмококковая инфекция",
+          "description": "Первая вакцинация против пневмококковой инфекции",
+          "recommendedAge": {
+            "fromAge": 2,
+            "toAge": 2
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Дифтерия, коклюш, столбняк",
+          "description": "Первая вакцинация против дифтерии, коклюша, столбняка",
+          "recommendedAge": {
+            "fromAge": 3,
+            "toAge": 3
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Полиомиелит",
+          "description": "Первая вакцинация против полиомиелита",
+          "recommendedAge": {
+            "fromAge": 3,
+            "toAge": 3
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Гемофильная инфекция",
+          "description": "Первая вакцинация против гемофильной инфекции",
+          "recommendedAge": {
+            "fromAge": 3,
+            "toAge": 3
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Корь, краснуха, паротит",
+          "description": "Вакцинация против кори, краснухи и эпидемического паротита",
+          "recommendedAge": {
+            "fromAge": 12,
+            "toAge": 12
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Грипп",
+          "description": "Ежегодная вакцинация против гриппа",
+          "recommendedAge": {
+            "fromAge": 72,
+            "toAge": 1200
+          },
+          "isRequired": false
+        }
+      ]
+    },
+    "Беларусь": {
+      "name": "Беларусь",
+      "vaccinations": [
+        {
+          "name": "Гепатит B",
+          "description": "Первая вакцинация против вирусного гепатита B",
+          "recommendedAge": {
+            "fromAge": 0,
+            "toAge": 0
+          },
+          "isRequired": true
+        },
+        {
+          "name": "БЦЖ",
+          "description": "Вакцинация против туберкулеза",
+          "recommendedAge": {
+            "fromAge": 0,
+            "toAge": 0
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Дифтерия, коклюш, столбняк",
+          "description": "Первая вакцинация против дифтерии, коклюша, столбняка",
+          "recommendedAge": {
+            "fromAge": 3,
+            "toAge": 3
+          },
+          "isRequired": true
+        }
+      ]
+    },
+    "Казахстан": {
+      "name": "Казахстан",
+      "vaccinations": [
+        {
+          "name": "БЦЖ",
+          "description": "Вакцинация против туберкулеза",
+          "recommendedAge": {
+            "fromAge": 0,
+            "toAge": 0
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Гепатит B",
+          "description": "Первая вакцинация против вирусного гепатита B",
+          "recommendedAge": {
+            "fromAge": 0,
+            "toAge": 0
+          },
+          "isRequired": true
+        },
+        {
+          "name": "Полиомиелит",
+          "description": "Первая вакцинация против полиомиелита",
+          "recommendedAge": {
+            "fromAge": 2,
+            "toAge": 2
+          },
+          "isRequired": true
+        }
+      ]
+    }
+  }
+}
