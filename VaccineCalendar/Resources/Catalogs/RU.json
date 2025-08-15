@@ -1,0 +1,16 @@
+{
+  "country": "RU",
+  "mandatory": [
+    { "id": "bcg_birth", "name": "БЦЖ", "ageOffset": { "days": 0 } },
+    { "id": "hepb_birth", "name": "Гепатит B (1)", "ageOffset": { "days": 0 } },
+    { "id": "hepb_1m", "name": "Гепатит B (2)", "ageOffset": { "months": 1 } },
+    { "id": "polio_3m", "name": "Полиомиелит (1)", "ageOffset": { "months": 3 } },
+    { "id": "dpt_3m", "name": "АКДС (1)", "ageOffset": { "months": 3 } },
+    { "id": "mmr_12m", "name": "КПК (1)", "ageOffset": { "months": 12 } },
+    { "id": "flu_yearly", "name": "Грипп (ежегодно)", "ageOffset": { "years": 1 } }
+  ],
+  "recommended": [
+    { "id": "rota_2m", "name": "Ротавирус (1)", "ageOffset": { "months": 2 } },
+    { "id": "mening_12m", "name": "Менингококк (1)", "ageOffset": { "months": 12 } }
+  ]
+}
