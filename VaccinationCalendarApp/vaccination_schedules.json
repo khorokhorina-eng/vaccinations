@@ -1,0 +1,200 @@
+{
+  "schedules": [
+    {
+      "countryCode": "RU",
+      "countryName": "Россия",
+      "vaccinations": [
+        {
+          "id": "ru_hep_b_birth",
+          "name": "Гепатит B",
+          "description": "Первая вакцинация против гепатита B",
+          "ageInMonths": 0,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_bcg",
+          "name": "БЦЖ",
+          "description": "Вакцинация против туберкулеза",
+          "ageInMonths": 0,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_hep_b_1",
+          "name": "Гепатит B",
+          "description": "Вторая вакцинация против гепатита B",
+          "ageInMonths": 1,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_dtp_polio_hib_1",
+          "name": "АКДС + Полиомиелит + ХИБ",
+          "description": "Первая вакцинация против дифтерии, коклюша, столбняка, полиомиелита и гемофильной инфекции",
+          "ageInMonths": 3,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_dtp_polio_hib_2",
+          "name": "АКДС + Полиомиелит + ХИБ",
+          "description": "Вторая вакцинация против дифтерии, коклюша, столбняка, полиомиелита и гемофильной инфекции",
+          "ageInMonths": 4,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_hep_b_2",
+          "name": "Гепатит B",
+          "description": "Третья вакцинация против гепатита B",
+          "ageInMonths": 6,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_dtp_polio_hib_3",
+          "name": "АКДС + Полиомиелит + ХИБ",
+          "description": "Третья вакцинация против дифтерии, коклюша, столбняка, полиомиелита и гемофильной инфекции",
+          "ageInMonths": 6,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_mmr",
+          "name": "Корь, краснуха, паротит",
+          "description": "Вакцинация против кори, краснухи и эпидемического паротита",
+          "ageInMonths": 12,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_dtp_polio_revaccination",
+          "name": "АКДС + Полиомиелит (ревакцинация)",
+          "description": "Первая ревакцинация против дифтерии, коклюша, столбняка и полиомиелита",
+          "ageInMonths": 18,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_mmr_revaccination",
+          "name": "Корь, краснуха, паротит (ревакцинация)",
+          "description": "Ревакцинация против кори, краснухи и эпидемического паротита",
+          "ageInMonths": 72,
+          "isRequired": true,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_rotavirus_1",
+          "name": "Ротавирус",
+          "description": "Первая вакцинация против ротавирусной инфекции",
+          "ageInMonths": 2,
+          "isRequired": false,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_pneumococcus_1",
+          "name": "Пневмококк",
+          "description": "Первая вакцинация против пневмококковой инфекции",
+          "ageInMonths": 2,
+          "isRequired": false,
+          "countryCode": "RU"
+        },
+        {
+          "id": "ru_meningococcus",
+          "name": "Менингококк",
+          "description": "Вакцинация против менингококковой инфекции",
+          "ageInMonths": 12,
+          "isRequired": false,
+          "countryCode": "RU"
+        }
+      ]
+    },
+    {
+      "countryCode": "US",
+      "countryName": "США",
+      "vaccinations": [
+        {
+          "id": "us_hep_b_birth",
+          "name": "Hepatitis B",
+          "description": "First dose of Hepatitis B vaccine",
+          "ageInMonths": 0,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_dtap_ipv_hib_pcv_1",
+          "name": "DTaP + IPV + Hib + PCV",
+          "description": "First dose of DTaP, IPV, Hib, and PCV vaccines",
+          "ageInMonths": 2,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_dtap_ipv_hib_pcv_2",
+          "name": "DTaP + IPV + Hib + PCV",
+          "description": "Second dose of DTaP, IPV, Hib, and PCV vaccines",
+          "ageInMonths": 4,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_hep_b_2",
+          "name": "Hepatitis B",
+          "description": "Second dose of Hepatitis B vaccine",
+          "ageInMonths": 4,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_dtap_ipv_hib_pcv_3",
+          "name": "DTaP + IPV + Hib + PCV",
+          "description": "Third dose of DTaP, IPV, Hib, and PCV vaccines",
+          "ageInMonths": 6,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_hep_b_3",
+          "name": "Hepatitis B",
+          "description": "Third dose of Hepatitis B vaccine",
+          "ageInMonths": 6,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_mmr_varicella",
+          "name": "MMR + Varicella",
+          "description": "MMR and Varicella vaccines",
+          "ageInMonths": 12,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_hep_a_1",
+          "name": "Hepatitis A",
+          "description": "First dose of Hepatitis A vaccine",
+          "ageInMonths": 12,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_dtap_ipv_booster",
+          "name": "DTaP + IPV Booster",
+          "description": "DTaP and IPV booster shots",
+          "ageInMonths": 48,
+          "isRequired": true,
+          "countryCode": "US"
+        },
+        {
+          "id": "us_rotavirus_1",
+          "name": "Rotavirus",
+          "description": "First dose of Rotavirus vaccine",
+          "ageInMonths": 2,
+          "isRequired": false,
+          "countryCode": "US"
+        }
+      ]
+    }
+  ]
+}
