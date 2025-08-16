@@ -1,0 +1,267 @@
+[
+  {
+    "country": "Россия",
+    "vaccinations": [
+      {
+        "name": "БЦЖ",
+        "description": "Вакцина против туберкулёза",
+        "ageInMonths": 0,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Гепатит B",
+        "description": "Вакцина против вирусного гепатита B",
+        "ageInMonths": 0,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "АКДС",
+        "description": "Вакцина против коклюша, дифтерии и столбняка",
+        "ageInMonths": 3,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "АКДС",
+        "description": "Вторая вакцинация против коклюша, дифтерии и столбняка",
+        "ageInMonths": 4,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "АКДС",
+        "description": "Третья вакцинация против коклюша, дифтерии и столбняка",
+        "ageInMonths": 6,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Полиомиелит",
+        "description": "Вакцина против полиомиелита",
+        "ageInMonths": 3,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Полиомиелит",
+        "description": "Вторая вакцинация против полиомиелита",
+        "ageInMonths": 4,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Полиомиелит",
+        "description": "Третья вакцинация против полиомиелита",
+        "ageInMonths": 6,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Корь, краснуха, паротит",
+        "description": "Вакцина против кори, краснухи и эпидемического паротита",
+        "ageInMonths": 12,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Гепатит A",
+        "description": "Вакцина против вирусного гепатита A",
+        "ageInMonths": 18,
+        "isRequired": false,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Менингококковая инфекция",
+        "description": "Вакцина против менингококковой инфекции",
+        "ageInMonths": 24,
+        "isRequired": false,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "АКДС",
+        "description": "Первая ревакцинация против коклюша, дифтерии и столбняка",
+        "ageInMonths": 18,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Полиомиелит",
+        "description": "Первая ревакцинация против полиомиелита",
+        "ageInMonths": 18,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "АКДС",
+        "description": "Вторая ревакцинация против коклюша, дифтерии и столбняка",
+        "ageInMonths": 72,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Полиомиелит",
+        "description": "Вторая ревакцинация против полиомиелита",
+        "ageInMonths": 72,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Корь, краснуха, паротит",
+        "description": "Ревакцинация против кори, краснухи и эпидемического паротита",
+        "ageInMonths": 72,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      }
+    ]
+  },
+  {
+    "country": "США",
+    "vaccinations": [
+      {
+        "name": "Hepatitis B",
+        "description": "Vaccine against hepatitis B",
+        "ageInMonths": 0,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "DTaP",
+        "description": "Vaccine against diphtheria, tetanus, and pertussis",
+        "ageInMonths": 2,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "IPV",
+        "description": "Inactivated poliovirus vaccine",
+        "ageInMonths": 2,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "MMR",
+        "description": "Vaccine against measles, mumps, and rubella",
+        "ageInMonths": 12,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Varicella",
+        "description": "Vaccine against chickenpox",
+        "ageInMonths": 12,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      }
+    ]
+  },
+  {
+    "country": "Германия",
+    "vaccinations": [
+      {
+        "name": "Tetanus",
+        "description": "Tetanus vaccine",
+        "ageInMonths": 2,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Diphtheria",
+        "description": "Diphtheria vaccine",
+        "ageInMonths": 2,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Pertussis",
+        "description": "Pertussis vaccine",
+        "ageInMonths": 2,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      },
+      {
+        "name": "Polio",
+        "description": "Polio vaccine",
+        "ageInMonths": 2,
+        "isRequired": true,
+        "isCompleted": false,
+        "completedDate": null,
+        "notes": "",
+        "vaccineType": ""
+      }
+    ]
+  }
+]
