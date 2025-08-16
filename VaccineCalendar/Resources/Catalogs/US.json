@@ -1,0 +1,13 @@
+{
+  "country": "US",
+  "mandatory": [
+    { "id": "hepb_birth", "name": "HepB (1)", "ageOffset": { "days": 0 } },
+    { "id": "dtap_2m", "name": "DTaP (1)", "ageOffset": { "months": 2 } },
+    { "id": "polio_2m", "name": "IPV (1)", "ageOffset": { "months": 2 } },
+    { "id": "mmr_12m", "name": "MMR (1)", "ageOffset": { "months": 12 } }
+  ],
+  "recommended": [
+    { "id": "rota_2m", "name": "Rotavirus (1)", "ageOffset": { "months": 2 } },
+    { "id": "var_12m", "name": "Varicella (1)", "ageOffset": { "months": 12 } }
+  ]
+}
